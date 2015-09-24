@@ -6,12 +6,12 @@
   "primary_category": "d12528a724ed4202b25cc908b483a31c", 
   "created_at": "2015-09-22T12:34:40+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-22T12:41:47.850690+00:00", 
+  "modified_at": "2015-09-24T07:58:39.689752+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -26,7 +26,7 @@
   ], 
   "image": "2f537b14fc3549478d53f79a350e0190", 
   "published": null, 
-  "position": 1, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "casamento-prematuro", 
   "uuid": "25073e410b964f4b85f0fddff6eaea59"
