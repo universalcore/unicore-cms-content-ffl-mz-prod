@@ -6,12 +6,12 @@
   "primary_category": "d12528a724ed4202b25cc908b483a31c", 
   "created_at": "2015-09-22T12:28:14+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-22T12:40:38.581949+00:00", 
+  "modified_at": "2015-09-24T07:58:40.100963+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -26,7 +26,7 @@
   ], 
   "image": "f74c2f1e965e460192ef574f4e310a8b", 
   "published": null, 
-  "position": 8, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "mensagens-chave-sobre-proteccao-dos-mais-vulneraveis", 
   "uuid": "502b500d1db146479f8c0cebbef90f7b"
