@@ -6,12 +6,12 @@
   "primary_category": "2d63582baebc4b889a50b8abd5b872a8", 
   "created_at": "2015-09-22T11:58:18+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-22T12:36:58.364652+00:00", 
+  "modified_at": "2015-09-24T07:59:23.455694+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -26,7 +26,7 @@
   ], 
   "image": "51899dbc87584bd5a62afb28e39ac3d0", 
   "published": null, 
-  "position": 27, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "gravidez-e-parto", 
   "uuid": "1f28c06bb9c24057aba01ddd064d5a94"
